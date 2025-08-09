@@ -18,8 +18,7 @@ This repository contains practical tasks designed to help you understand and imp
 ### 3. Git Hooks and Automation  
 **Objective:** Implement Git hooks to automate parts of the GitFlow process.
 
-### 4. Manual Review  
-All tasks completed successfully with a 100% score.
+
 
 ---
 
